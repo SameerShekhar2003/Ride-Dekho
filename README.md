@@ -1,5 +1,18 @@
 # Ride-Dekho
 
+How to run Project
+1. Download and Unzip the file on your local system copy Project.
+2. Put Project folder inside the root directory
+
+
+Database Configuration
+
+1. Open PHPMyAdmin
+2. Create Database vehicle
+Import database vehicle.sql (available inside the SQL folder)
+For User
+Open Your browser put inside browser “http://localhost/Project”
+
 The car and bike rental business has emerged with a new goodies compared to the past experience
 where every activity concerning car and bike rental business is limited to a physical location only.
 Even though the physical location has not been totally eradicated;
